@@ -28,7 +28,7 @@ module.exports = {
       Server: [""], 
       Parent: [""],
       Message: true,
-      EmbedMessage: true, // Hem embed mesajı hemde normal mesajı açabilirsiniz.
+      EmbedMessage: true, // Hem embed mesajı hem de normal mesajı açabilirsiniz.
       Status: "Destek için: emre#0001, kediler.xyz",
       Token: "", 
   },
