@@ -1,6 +1,8 @@
 ## Discord Otomatik Mesaj Gönderici
 
- hızlı bir şekilde bot kurulup yeniden geliştirilebilir. Yazılım dili olarak `Javascript` ve kütüphane olarak `discord.js` kullandım.
+Bir kanal kategorisi belirleyip o kategoride oluşturulan yazı kanallarına istediğiniz şekillerde mesaj göndertebilirsiniz! Bot hızlı bir şekilde kurulup yeniden geliştirilebilir. Yazılım dili olarak `Javascript` ve kütüphane olarak `discord.js` kullandım. 
+
+Node.js sürümüyle ilgili problem yaşarsanız eğer `Node.js v12.19.0` kullanıyorum. İndirmek için [buraya](https://nodejs.org/dist/v12.19.0/node-v12.19.0-x64.msi) tıklayabilirsiniz.
 
 ### Bot Kurulumu
 - Botu kullanmak için `BİR BOTA` sahip olmanız gerekiyor.
