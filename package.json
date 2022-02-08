@@ -1,0 +1,37 @@
+{
+  "name": "discord-autoresponder",
+  "version": "1.0.0",
+  "description": "Enes Emre Mercan tarafından hazırlanmış Discord Oto Cevap botu.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "0.1.0-canary.0",
+    "chalk": "4.0.0",
+    "discord-api-types": "0.24.0",
+    "discord.js": "12.3.1",
+    "figlet": "1.5.2",
+    "moment": "2.29.1",
+    "parse-ms": "2.1.0",
+    "request": "2.88.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/EnesEmreMercan/discord-autoresponder"
+  },
+  "author": "Enes Emre Mercan",
+  "license": "Apache",
+  "keywords": [
+    "node",
+    "discord",
+    "express",
+    "otocevap",
+    "enesemremercan",
+    "emre#0001",
+    "kediler.xyz",
+    "kediler"
+  ]
+}
