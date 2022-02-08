@@ -7,7 +7,7 @@ module.exports = {
        * @Parent Botun mesaj atacağı kategori ID listesi.
        * @Message Normal mesaj atması için. (true, false)
        * @EmbedMessage Embed mesaj atması için. (true, false)
-       * @Status Botun oynuyor kısmını düzenleyebileyeceğiniz kısım.
+       * @Status Botun oynuyor kısmını düzenleyebileceğiniz kısım.
        * @Token Bot tokeni.
        */
 
