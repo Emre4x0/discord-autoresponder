@@ -7,7 +7,7 @@
 - Kodu ZIP olarak indirin ve klasör olarak çıkarın.
 - Herhangi bir terminal veya konsol açarak `npm install` komutunu kullanın.
 - `config.js` dosyasını (ana kaynaktaki) açın ve yönergelere göre düzenleyin.
-- Kısacası, ayarlar dosyanızda bunların olması zorunludur.
+- Config dosyasının varsayılan hali:
 ```js
 module.exports = {
   SETTINGS: {
@@ -62,7 +62,6 @@ MESSAGE: {
     }
     }
 ```
-- Ufak bir örneği kodun içinde bıraktım, bu sadece göstermeliktir!!
 
 ### Başka Sorunuz Varsa?
 [emre#0001](https://discord.com/users/538846533123309584) kullanıcısına DM yoluyla ulaşabilir veya [Kediler](https://discord.com/invite/dWgGmkK8z9) Discord sunucusuna katılıp probleminizi oradan iletebilirsiniz.
