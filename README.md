@@ -7,7 +7,7 @@ Node.js sürümüyle ilgili problem yaşarsanız eğer `Node.js v12.19.0` kullan
 Kurulum, anlatım videosunu izlemek için [buraya](https://youtu.be/eCedUdZ3VJc) tıklayabilirsin.
 <br>
 <br>
-[<img src="" width="50%">](https://youtu.be/eCedUdZ3VJc)
+[<img src="https://img.youtube.com/vi/eCedUdZ3VJc/maxresdefault.jpg" width="50%">](https://youtu.be/eCedUdZ3VJc)
 
 ### Bot Kurulumu
 - Botu kullanmak için `BİR BOTA` sahip olmanız gerekiyor.
