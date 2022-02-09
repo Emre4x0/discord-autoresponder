@@ -5,6 +5,7 @@ Bir kanal kategorisi belirleyip o kategoride oluşturulan yazı kanallarına ist
 Node.js sürümüyle ilgili problem yaşarsanız eğer `Node.js v12.19.0` kullanıyorum. İndirmek için [buraya](https://nodejs.org/dist/v12.19.0/node-v12.19.0-x64.msi) tıklayabilirsiniz.
 
 Kurulum, anlatım videosunu izlemek için [buraya](https://youtu.be/eCedUdZ3VJc) tıklayabilirsin.
+<br>
 [<img src="https://img.youtube.com/vi/eCedUdZ3VJc/maxresdefault.jpg" width="50%">](https://youtu.be/eCedUdZ3VJc)
 
 ### Bot Kurulumu
