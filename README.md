@@ -4,10 +4,6 @@ Bir kanal kategorisi belirleyip o kategoride oluşturulan yazı kanallarına ist
 
 Node.js sürümüyle ilgili problem yaşarsanız eğer `Node.js v12.19.0` kullanıyorum. İndirmek için [buraya](https://nodejs.org/dist/v12.19.0/node-v12.19.0-x64.msi) tıklayabilirsiniz.
 
-Kurulum, anlatım videosunu izlemek için [buraya](https://youtu.be/eCedUdZ3VJc) tıklayabilirsin.
-<br>
-<br>
-[<img src="https://img.youtube.com/vi/eCedUdZ3VJc/maxresdefault.jpg" width="50%">](https://youtu.be/eCedUdZ3VJc)
 
 ### Bot Kurulumu
 - Botu kullanmak için `BİR BOTA` sahip olmanız gerekiyor.
@@ -71,4 +67,4 @@ MESSAGE: {
 ```
 
 ### Başka Sorunuz Varsa?
-[emre#0001](https://discord.com/users/538846533123309584) hesabına DM yoluyla ulaşabilir veya [Kediler](https://discord.com/invite/dWgGmkK8z9) Discord sunucusuna katılıp sorunuzu oradan iletebilirsiniz.
+[emre#0001](https://discord.com/users/538846533123309584) hesabına DM yoluyla ulaşabilir veya [Kediler](https://discord.com/invite/VKrgTrtFrd) Discord sunucusuna katılıp sorunuzu oradan iletebilirsiniz.
