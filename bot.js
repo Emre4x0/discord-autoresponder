@@ -1,4 +1,4 @@
-const Discord = require('discord.js'); // Created By Enes Emre Mercan (kediler.xyz, emre#0001)
+const Discord = require('discord.js'); // Created By Enes Emre (Emre4x0) (kediler.xyz, emre#0001)
 const { Message } = require('./config.js');
 const client = new Discord.Client();
 const config = require('./config.js');
@@ -6,7 +6,7 @@ const chalk = require('chalk');
 const moment = require('moment');
 moment.locale("tr");
 
-// © Enes Emre Mercan | Kopyalamayın
+// © Enes Emre (Emre4x0) | Kopyalamayın
 
 require('./util/eventLoader')(client);
 
@@ -88,7 +88,7 @@ client.on('ready', async () => {
 })
   
   
-// © Enes Emre Mercan | Kopyalamayın
+// © Enes Emre (Emre4x0) | Kopyalamayın
 
   
 
