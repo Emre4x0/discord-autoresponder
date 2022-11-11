@@ -67,4 +67,4 @@ MESSAGE: {
 ```
 
 ### Başka Sorunuz Varsa?
-[emre#0001](https://discord.com/users/538846533123309584) hesabına DM yoluyla ulaşabilir veya [Kediler](https://discord.com/invite/VKrgTrtFrd) Discord sunucusuna katılıp sorunuzu oradan iletebilirsiniz.
+[emre#0001](https://discord.com/users/538846533123309584) hesabına ulaşabilir veya [Skyare](https://discord.gg/javascript) Discord sunucusuna katılıp sorunuzu oradan iletebilirsiniz.
