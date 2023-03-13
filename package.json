@@ -1,7 +1,7 @@
 {
   "name": "discord-autoresponder",
   "version": "1.0.0",
-  "description": "Enes Emre Mercan tarafından hazırlanmış Discord Oto Cevap botu.",
+  "description": "Enes Emre tarafından hazırlanmış Discord Oto Cevap botu.",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
