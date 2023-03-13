@@ -20,18 +20,18 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://github.com/EnesEmreMercan/discord-autoresponder"
+    "url": "https://github.com/Emre4x0/discord-autoresponder"
   },
-  "author": "Enes Emre Mercan",
+  "author": "Enes Emre",
   "license": "Apache",
   "keywords": [
     "node",
     "discord",
     "express",
     "otocevap",
-    "enesemremercan",
+    "emre4x0",
     "emre#0001",
-    "kediler.xyz",
-    "kediler"
+    "devs",
+    "devs.org.tr"
   ]
 }
